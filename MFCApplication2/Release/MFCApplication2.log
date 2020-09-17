@@ -1,0 +1,20 @@
+﻿  stdafx.cpp
+  crossing.cpp
+  InterLock.cpp
+  MainFrm.cpp
+  MFCApplication2.cpp
+  MFCApplication2Doc.cpp
+  MFCApplication2View.cpp
+  Signal.cpp
+e:\本科\大四\创新课程\2016112337 龙芳 提交材料2\2016112337 龙芳 程序源代码\mfcapplication1111_1\mfcapplication2\signal.cpp(20): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+e:\本科\大四\创新课程\2016112337 龙芳 提交材料2\2016112337 龙芳 程序源代码\mfcapplication1111_1\mfcapplication2\signal.cpp(51): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+e:\本科\大四\创新课程\2016112337 龙芳 提交材料2\2016112337 龙芳 程序源代码\mfcapplication1111_1\mfcapplication2\signal.cpp(86): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+e:\本科\大四\创新课程\2016112337 龙芳 提交材料2\2016112337 龙芳 程序源代码\mfcapplication1111_1\mfcapplication2\signal.cpp(91): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+e:\本科\大四\创新课程\2016112337 龙芳 提交材料2\2016112337 龙芳 程序源代码\mfcapplication1111_1\mfcapplication2\signal.cpp(96): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+  Track.cpp
+  Train.cpp
+  正在生成代码
+e:\本科\大四\创新课程\2016112337 龙芳 提交材料2\2016112337 龙芳 程序源代码\mfcapplication1111_1\mfcapplication2\mfcapplication2doc.cpp(556): warning C4715: “CMFCApplication2Doc::TraFront”: 不是所有的控件路径都返回值
+  All 517 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  MFCApplication2.vcxproj -> E:\本科\大四\创新课程\2016112337 龙芳 提交材料2\2016112337 龙芳 程序源代码\MFCApplication1111_1\Release\MFCApplication2.exe
